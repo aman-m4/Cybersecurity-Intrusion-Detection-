@@ -6,7 +6,7 @@ Every 39 seconds, a cyber attack threatens our digital world. This project build
 
 **Key Features:**
 
-*   **Data:** Utilizes the SIMARGL2021 dataset, a comprehensive collection of benign and malicious network traffic.
+*   **Data:** Utilizes the SIMARGL2021 dataset, a comprehensive collection of benign and malicious network traffic. Link to the dataset : https://www.kaggle.com/datasets/h2020simargl/simargl2021-network-intrusion-detection-dataset
 *   **Exploratory Analysis:**  Thoroughly explores the dataset to understand its features, attack types, and potential redundancies.
 *   **Visualization:** Visualizes data to grasp the distribution and proportion of different labels (attack types) in the dataset.
 *   **Model Training:** Trains and tests a variety of machine learning classifiers, including:
